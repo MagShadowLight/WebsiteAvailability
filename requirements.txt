@@ -1,0 +1,8 @@
+requests
+pytest
+pytest-cov
+radon
+mutmut
+ruff
+mypy
+jscpd
